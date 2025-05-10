@@ -111,3 +111,6 @@ PRODUCT_PACKAGES += \
     LineageBlackTheme \
     ThemePicker \
     ThemesStub
+
+PRODUCT_PACKAGES += \
+    CustomFontPixelLauncherOverlay
